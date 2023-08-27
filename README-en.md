@@ -2,7 +2,7 @@
 
 This is a university project under the domain of Requirements Engineering for the Decolar system. This document provides a comprehensive insight into the development stages, from the initial conception to the formulation of contracts.
 --- 
-For the documentation in Portuguese, please refer to the [README in Portuguese](./README-pt.md).
+For the documentation in Portuguese, please refer to the [README in Portuguese](./README.md).
 
 1. **Worldview - Problem Definition**
 A detailed and concise description of the problem Decolar aims to resolve with this system, taking into account the company's current scenario and needs in today's market.
