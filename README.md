@@ -1,6 +1,6 @@
 # Projeto de Sistema para Decolar
 
-Documento README do projeto universitário de Engenharia de Requisitos para o sistema da Decolar. Este documento fornece uma visão abrangente das fases de desenvolvimento, desde a concepção inicial até a elaboração dos contratos.
+Projeto universitário de Engenharia de Requisitos para o sistema da Decolar. Este documento fornece uma visão abrangente das fases de desenvolvimento, desde a concepção inicial até a elaboração dos contratos.
 
 ---
 
