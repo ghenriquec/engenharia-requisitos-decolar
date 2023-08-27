@@ -3,6 +3,7 @@
 Documento README do projeto universitário de Engenharia de Requisitos para o sistema da Decolar. Este documento fornece uma visão abrangente das fases de desenvolvimento, desde a concepção inicial até a elaboração dos contratos.
 
 ---
+Para ler a documentação em inglês, vá para [README em inglês](./README-en.md).
 
 ### 1. Minimundo - Definição do Problema
 Descrição detalhada e concisa do problema que a Decolar deseja resolver com este sistema, levando em consideração o cenário e as necessidades da empresa no mercado atual.
