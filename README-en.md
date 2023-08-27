@@ -1,6 +1,7 @@
 # Decolar System Project
 
 This is a university project under the domain of Requirements Engineering for the Decolar system. This document provides a comprehensive insight into the development stages, from the initial conception to the formulation of contracts.
+
 --- 
 For the documentation in Portuguese, please refer to the [README in Portuguese](./README.md).
 
@@ -22,7 +23,7 @@ Requirements that possess unique characteristics or demand special attention dur
    **d. Functional and Non-Functional Requirements:**
     - **Functional Requirements:** Describe the functionalities the system should carry out.
     - **Non-Functional Requirements:** Detail performance, usability, security features, and other characteristics the system must embody.
-    
+
 ### 3. Activity Diagram
 A graphical representation of workflow and activities, illustrating task execution, sequence, and decisions made throughout the process.
 
