@@ -13,3 +13,6 @@ A equipe constituinte do projeto é composta pelos seguintes membros:
 
 - **Isabela Gontijo de Castro**
   - Contato: 866779@sga.pucminas.br
+
+- **Rafael Ferreira Fernandes**
+  - Contato: 1201757@sga.pucminas.br
