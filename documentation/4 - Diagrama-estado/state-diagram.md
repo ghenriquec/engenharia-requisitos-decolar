@@ -36,12 +36,8 @@
 | RNF3 | O sistema deve ser capaz de suportar... | TNF003 | Performance | Alta | Arthur Azalim | Em andamento | - |
 | RNF4 | Todos os dados do sistema devem ser armazenados... | TNF004 | Segurança e Backup | Alta | João Gabriel | Em andamento | - |
 | RNF5 | O tempo de resposta para verificação... | TNF005 | Performance | Média | Rafael Farreira | Em andamento | RF2 |
-| RNF6 | Deve haver um suporte 24/7... | TNF006 | Suporte | Média | Guilher
-
-me Henrique | Em andamento | - |
+| RNF6 | Deve haver um suporte 24/7... | TNF006 | Suporte | Média | Guilherme Henrique | Em andamento | - |
 | RNF7 | O sistema deve garantir uma disponibilidade... | TNF007 | Disponibilidade | Alta | Isabela Gontijo | Em andamento | - |
 | RNF8 | Todos os processos críticos devem ser auditáveis. | TNF008 | Auditoria | Média | Arthur Azalim | Em andamento | - |
 | RNF9 | O sistema deve ser compatível com os principais... | TNF009 | Compatibilidade | Média | João Gabriel | Em andamento | - |
 | RNF10 | O sistema deve ser escalável... | TNF010 | Escalabilidade | Média | Rafael Farreira | Em andamento | - |
-
-Os nomes dos responsáveis foram atribuídos aleatoriamente conforme instruído.
